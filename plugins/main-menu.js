@@ -552,7 +552,7 @@ await conn[_0x187932(0x1c2)](m[_0x187932(0x1cf)], buttonMessage, {
 	/** Baru */
 	let img = fs.readFileSync('./img/atas.png')
 	let img2 = fs.readFileSync('./img/bawah.png')
-	return conn.sendButton(m.chat, '.', text, img2, [["SEWA BOT", _p + "sewabot"], ["SCRIPT", _p + "sc"], ["OWNER", _p + "owner"]], m, {
+	return conn.sendButton(m.chat, '.', text, img2, [["SEWA BOT", _p + "sewabot"], ["DONASI", _p + "donasi"], ["OWNER", _p + "owner"]], m, {
         contextInfo: {
             externalAdReply: {
                 mediaUrl: "https://chat.whatsapp.com/Bh4K4gbxB7FIh7TeXJ71S8",
@@ -630,9 +630,10 @@ function _0x1766() {
  handler.tags = ['main'] 
  handler.command = /^(menu|help|\?)$/i 
   
- handler.register = false
+ handler.register = true 
  handler.exp = 3 
-  
+ handler.limit = 3
+ 
  export default handler
 //----------- FUNCTION -------
 
