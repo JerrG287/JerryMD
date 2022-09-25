@@ -631,8 +631,7 @@ function _0x1766() {
  handler.command = /^(menu|help|\?)$/i 
   
  handler.register = true 
- handler.exp = 3 
- handler.limit = 3
+ handler.exp = 3
  
  export default handler
 //----------- FUNCTION -------
