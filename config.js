@@ -125,11 +125,11 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEY',
+  'https://api.xteam.xyz': 'bf4067b919892526',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'APIKEY',
+  'https://api.lolhuman.xyz': '7a2e36df84ef775cdc9f8399',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'APIKEY',
+  'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
   'https://api.neoxr.my.id' : '5VC9rvNx',
   'https://rest-beni.herokuapp.com' : 'benniismaelapikey',
@@ -137,14 +137,14 @@ global.APIKeys = { // APIKey Here
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://botstyle-api.herokuapp.com': 'Fa2GhFnr',
-  'https://bsbt-api-rest.herokuapp.com': 'APIKEY',
+  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://hardianto.xyz': 'hardianto',
   'https://zenzapis.xyz' : 'f9fccfcff1',
   'https://hardianto-chan.herokuapp.com' : 'hardianto',
-  'https://leyscoders-api.herokuapp.com': 'APIKEY',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
 }
 /*Xteam*/
-global.xteamkey = 'APIKEY'
+global.xteamkey = 'bf4067b919892526'
 /*Xcoders*/
 global.xckey = 'BOhjM2hUVn'
 // KATA "APIKEY" GANTI DENGAN APIKEY MU SENDIRI
