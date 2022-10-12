@@ -41,27 +41,27 @@ global.sdc = 'https://chat.whatsapp.com/Bh4K4gbxB7FIh7TeXJ71S8' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '085158121779' //Dana
-global.povo = '085158121779' //Ovo
-global.pgopay = '085158121779' //Gopay
-global.ppulsa = '085158121779' //Pulsa 
-global.ppulsa2 = '085228679898' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pdana = '085821886782' //Dana
+global.povo = '085821886782' //Ovo
+global.pgopay = '085821886782' //Gopay
+global.ppulsa = '085821886782' //Pulsa 
+global.ppulsa2 = '081352764594' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'https://saweria.co/asepbotz' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 083848128003\n│┝‷✧ *Dana:* 088215689772\n│┝‷✧ *Gopay:* 083160327945\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285228679898' //Nomor Bot mu
-global.nomorown = '6285158121779' //Nomormu
-global.namebot = '𝑪𝒍𝒐𝒗𝒆𝒓𝑩𝒐𝒕𝒛' //Nama bot mu
-global.nameown = '𝙮𝙪𝙨𝙪𝙛' //Nama mu
+global.nomorbot = '6281352764594' //Nomor Bot mu
+global.nomorown = '6281352764594' //Nomormu
+global.namebot = 'JeriMD' //Nama bot mu
+global.nameown = 'JERI' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.after = 'Bot by OHLX'
 global.swo = 'https://wa.me/6283160327945'
-global.author = '                © OHLX BOT By OHLX' //Wm author
-global.botintro = 'Hallo, Kenalin saya OHLX BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *OHLXXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.author = '                © FAJRI BOT By JERI //Wm author
+global.botintro = 'Hallo, Kenalin saya FAJRI BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Jeri* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
 global.thumbWarn = 'https://telegra.ph/file/38f72943a6f152112d128.jpg'
@@ -85,15 +85,15 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6285158121779'], //Owner1
-  ['6285158121779'], //Owner2
-  ['6285158121779', '𝙮𝙪𝙨𝙪𝙛 ! 🥶', true] //Ini buat kamu!
+  ['6285821886782'], //Owner1
+  ['6281352764594'], //Owner2
+  ['6285821886782', 'Jeri ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.ownep = [
-  ['6285158121779'], //Owner1
-  ['6285158121779'], //Owner2
-  ['6285158121779', '𝙮𝙪𝙨𝙪𝙛 ! 🥶', true] //Ini buat kamu!
+  ['6285821886782'], //Owner1
+  ['6281352764594'], //Owner2
+  ['6285821886782', 'Jeri ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
