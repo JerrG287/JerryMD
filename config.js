@@ -41,19 +41,19 @@ global.sdc = 'https://chat.whatsapp.com/Bh4K4gbxB7FIh7TeXJ71S8' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '083848128003' //Dana
-global.povo = '083848128003' //Ovo
-global.pgopay = '083160327945' //Gopay
-global.ppulsa = '083848128003' //Pulsa 
-global.ppulsa2 = '' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pdana = '085158121779' //Dana
+global.povo = '085158121779' //Ovo
+global.pgopay = '085158121779' //Gopay
+global.ppulsa = '085158121779' //Pulsa 
+global.ppulsa2 = '085228679898' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'https://saweria.co/asepbotz' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 083848128003\n│┝‷✧ *Dana:* 088215689772\n│┝‷✧ *Gopay:* 083160327945\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6283852452519' //Nomor Bot mu
-global.nomorown = '6283160327945' //Nomormu
-global.namebot = 'OHLX MD' //Nama bot mu
-global.nameown = 'OHLX Ganz' //Nama mu
+global.nomorbot = '6285228679898' //Nomor Bot mu
+global.nomorown = '6285158121779' //Nomormu
+global.namebot = '𝑪𝒍𝒐𝒗𝒆𝒓𝑩𝒐𝒕𝒛' //Nama bot mu
+global.nameown = '𝙮𝙪𝙨𝙪𝙛' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
@@ -85,15 +85,15 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6283160327945'], //Owner1
-  ['6283160327945'], //Owner2
-  ['6283160327945', 'OHLX ! 🥶', true] //Ini buat kamu!
+  ['6285158121779'], //Owner1
+  ['6285158121779'], //Owner2
+  ['6285158121779', '𝙮𝙪𝙨𝙪𝙛 ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.ownep = [
-  ['6283848128003'], //Owner1
-  ['6283848128003'], //Owner2
-  ['6283848128003', 'OHLX ! 🥶', true] //Ini buat kamu!
+  ['6285158121779'], //Owner1
+  ['6285158121779'], //Owner2
+  ['6285158121779', '𝙮𝙪𝙨𝙪𝙛 ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -151,13 +151,13 @@ global.xckey = 'BOhjM2hUVn'
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 OHLX - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀OHLX - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 OHLX - BOT'
+global.wm = '                「 赤 𝑪𝒍𝒐𝒗𝒆𝒓𝑩𝒐𝒕𝒛 ⁩இ 」' //Wm
+global.wm2 = '➳༻❀𝑪𝒍𝒐𝒗𝒆𝒓𝑩𝒐𝒕𝒛❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 𝑪𝒍𝒐𝒗𝒆𝒓𝑩𝒐𝒕𝒛'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗪𝗔𝗞𝗧𝗨 : ${wib}`
-global.titlebot = '𝗬𝗧: OHLX GT' //Ganti serah lu
+global.titlebot = '𝑪𝒍𝒐𝒗𝒆𝒓𝑩𝒐𝒕𝒛' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
@@ -476,10 +476,10 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'OHLX'
-global.umurowner = '15'
-global.asalowner = 'Yogyakarta, Jawa tengah'
-global.nomorowner = 'wa.me/6288215689772'
+global.nameowner = '𝙮𝙪𝙨𝙪𝙛'
+global.umurowner = '14'
+global.asalowner = 'Kalimantan, Tarakan'
+global.nomorowner = 'wa.me/6285158121779'
 global.pacarowner = 'Ga ada pacar'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
